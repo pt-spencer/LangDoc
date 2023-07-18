@@ -1,0 +1,16 @@
+INSERT INTO `entry` (`wordlist-id`, `word`, `POS`, `definition`) VALUES
+	(?, "I/me", "pronoun", "the person who is speaking or writing"),
+	(?, "two/pair", "number", "to turn something in opposite directions at the same time"),
+	(?, "you (singular, informal)", "pronoun", "person someone is speaking or writing to"),
+	(?, "who/what", "pronoun", "what or which person or people, to ask about, talking about"),
+	(?, "tongue", "noun", "part of the mouth that tastes food and is used for speaking"),
+	(?, "name", "noun", "what something or someone is called"),
+	(?, "eye", "noun", "part of the body that you see with"),
+	(?, "heart", "noun", "part of the body that pumps blood"),
+	(?, "tooth", "noun", "hard white thing in the mouth used for biting and eating"),
+	(?, "no/not", "adverb", "being none; not having or being"),
+	(?, "nail (finger-nail)", "noun", "book, play, or film that deals with a solution of a strange crime"),
+	(?, "louse/nit", "noun", "making a lot of noise"),
+	(?, "tear/teardrop", "noun", "1. (v) to damage something by pulling it apart; 2. (n) drop of salty water from the eye"),
+	(?, "water", "noun", "clear liquid that forms the seas, rivers, and rain"),
+	(?, "dead", "adjective", "not alive");
